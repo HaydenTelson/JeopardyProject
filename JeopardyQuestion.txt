@@ -1,0 +1,118 @@
+A parameter variable's scope is:
+200
+the method in which the parameter is declared
+the class to which the method belongs
+the method in which the parameter is declared
+the main method
+All of these
+A constructor:
+200
+has the same name as the class
+has the same name as the class
+has return type of void
+always accepts two arguments
+always has an access specifier of private
+Subscript numbering always starts at what value?
+200
+0
+1
+0
+-2
+none of these
+Java automatically stores this value in all uninitialized static member variables:
+200
+0
+null
+false
+0
+-1
+This type of method performs a task and sends a value back to the code that called it
+400
+value-returning
+void
+complex
+value-returning
+local
+After the header, the body of the method appears inside a set of:
+400
+braces
+brackets
+double quotes
+braces
+parentheses
+By default, Java initializes array elements with what value?
+400
+0
+1
+100
+0
+-1
+When a field is declared static, there will be:
+400
+only one copy of the field in memory
+a copy of the field for each static method in the class
+only one copy of the field in memory
+a copy of the field in each class object
+only two copies of the field in memory
+Local variables can be intialized with
+600
+any of these
+constants
+parameter
+the results of an arithmetic operation
+any of these
+One or more objects may be created from a(n):
+600
+class
+instance
+method
+field
+class
+In Java, you do not use the new operator when you use a(n):
+600
+initialization list
+array size declarator
+initialization list
+two-dimensional array
+all of these
+The whole-part relationship created by object aggregation is more often called:
+600
+a has a relationship
+an extra class relationship
+a has a relationship
+an inside class relationship
+an inner class relationship
+Values that are sent into a method are called:
+800
+arguments
+types
+literals
+variables
+arguments
+Instance methods do not have this key word in their headers:
+800
+static
+static
+private
+protected
+public
+This ArrayList class method deletes an item from an ArrayList.
+800
+remove
+delete
+erase
+purge
+remove
+The term for the relationship created by object aggregation is:
+800
+has a	
+Sub-class object
+is a
+has a
+Inner class
+
+
+
+
+
+ 
